@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ast_rest_server.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="50" Y="65"/>
+        <UsageCount Value="288"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ast_parser.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="6"/>
+        <CursorPos X="23" Y="7"/>
+        <UsageCount Value="288"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ast_visitor.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="61" Y="4"/>
+        <UsageCount Value="288"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="manual_ast_parser.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="207"/>
+        <CursorPos X="36" Y="241"/>
+        <UsageCount Value="288"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\DelphiAST-FixInsight\Source\DelphiAST.Writer.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="15"/>
+        <CursorPos Y="35"/>
+        <UsageCount Value="139"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ast_server.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="39" Y="41"/>
+        <UsageCount Value="260"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Lazarus\fpc\3.2.2\source\packages\fcl-web\src\base\httpdefs.pp"/>
+        <UnitName Value="HTTPDefs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="370"/>
+        <CursorPos X="14" Y="388"/>
+        <UsageCount Value="70"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Lazarus\fpc\3.2.2\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="773"/>
+        <CursorPos X="14" Y="791"/>
+        <UsageCount Value="70"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Lazarus\fpc\3.2.2\source\packages\fcl-xml\src\xmlread.pp"/>
+        <UnitName Value="XMLRead"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="11" Y="40"/>
+        <UsageCount Value="68"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\finah.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10" Y="23"/>
+        <UsageCount Value="45"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\DelphiAST-FixInsight\Source\DelphiAST.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="1824"/>
+        <CursorPos X="105" Y="1846"/>
+        <UsageCount Value="80"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\DelphiAST-FixInsight\Source\SimpleParser\SimpleParser.pas"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="741"/>
+        <CursorPos Y="767"/>
+        <UsageCount Value="80"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\DelphiAST-FixInsight\Source\FreePascalSupport\Generics.Collection\src\generics.collections.pas"/>
+        <UnitName Value="Generics.Collections"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="2133"/>
+        <CursorPos Y="2159"/>
+        <UsageCount Value="32"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="..\DelphiAST-FixInsight\Source\SimpleParser\SimpleParser.pas"/>
+        <Caret Line="2106" TopLine="2085"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DelphiAST-FixInsight\Source\SimpleParser\SimpleParser.pas"/>
+        <Caret Line="4830" TopLine="4811"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DelphiAST-FixInsight\Source\DelphiAST.pas"/>
+        <Caret Line="1907" TopLine="1887"/>
+      </Position>
+      <Position>
+        <Filename Value="manual_ast_parser.pas"/>
+        <Caret Line="164" Column="20" TopLine="130"/>
+      </Position>
+      <Position>
+        <Filename Value="manual_ast_parser.pas"/>
+        <Caret Line="156" TopLine="131"/>
+      </Position>
+      <Position>
+        <Filename Value="manual_ast_parser.pas"/>
+        <Caret Line="239" Column="98" TopLine="207"/>
+      </Position>
+      <Position>
+        <Filename Value="manual_ast_parser.pas"/>
+        <Caret Line="230" Column="9" TopLine="203"/>
+      </Position>
+      <Position>
+        <Filename Value="manual_ast_parser.pas"/>
+        <Caret Line="250" Column="95" TopLine="212"/>
+      </Position>
+      <Position>
+        <Filename Value="manual_ast_parser.pas"/>
+        <Caret Line="235" Column="55" TopLine="212"/>
+      </Position>
+      <Position>
+        <Filename Value="manual_ast_parser.pas"/>
+        <Caret Line="67" Column="17" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="manual_ast_parser.pas"/>
+        <Caret Line="332" Column="3" TopLine="307"/>
+      </Position>
+      <Position>
+        <Filename Value="manual_ast_parser.pas"/>
+        <Caret Line="65" Column="5" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="manual_ast_parser.pas"/>
+        <Caret Line="108" Column="38" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="manual_ast_parser.pas"/>
+        <Caret Line="238" Column="33" TopLine="216"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DelphiAST-FixInsight\Source\SimpleParser\SimpleParser.pas"/>
+        <Caret Line="597" Column="55" TopLine="572"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DelphiAST-FixInsight\Source\SimpleParser\SimpleParser.pas"/>
+        <Caret Line="212" Column="15" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DelphiAST-FixInsight\Source\SimpleParser\SimpleParser.pas"/>
+        <Caret Line="155" Column="10" TopLine="129"/>
+      </Position>
+      <Position>
+        <Filename Value="manual_ast_parser.pas"/>
+        <Caret Line="242" TopLine="216"/>
+      </Position>
+      <Position>
+        <Filename Value="manual_ast_parser.pas"/>
+        <Caret Line="232" Column="112" TopLine="216"/>
+      </Position>
+      <Position>
+        <Filename Value="manual_ast_parser.pas"/>
+        <Caret Line="229" Column="7" TopLine="207"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DelphiAST-FixInsight\Source\DelphiAST.pas"/>
+        <Caret Line="1847" Column="78" TopLine="1818"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DelphiAST-FixInsight\Source\DelphiAST.pas"/>
+        <Caret Line="1836" TopLine="1818"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DelphiAST-FixInsight\Source\SimpleParser\SimpleParser.pas"/>
+        <Caret Line="767" TopLine="741"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DelphiAST-FixInsight\Source\DelphiAST.pas"/>
+        <Caret Line="1539" TopLine="1513"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DelphiAST-FixInsight\Source\DelphiAST.pas"/>
+        <Caret Line="1540" TopLine="1513"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DelphiAST-FixInsight\Source\DelphiAST.pas"/>
+        <Caret Line="1849" Column="102" TopLine="1812"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DelphiAST-FixInsight\Source\FreePascalSupport\Generics.Collection\src\generics.collections.pas"/>
+        <Caret Line="2159" TopLine="2133"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DelphiAST-FixInsight\Source\DelphiAST.pas"/>
+        <Caret Line="1841" Column="50" TopLine="1812"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DelphiAST-FixInsight\Source\DelphiAST.pas"/>
+        <Caret Line="1842" Column="94" TopLine="1812"/>
+      </Position>
+      <Position>
+        <Filename Value="manual_ast_parser.pas"/>
+        <Caret Line="241" Column="36" TopLine="207"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="manual_ast_parser.pas"/>
+        <Line Value="185"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="manual_ast_parser.pas"/>
+        <Line Value="195"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

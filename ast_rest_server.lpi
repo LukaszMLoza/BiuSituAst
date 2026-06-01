@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="12"/>
+    <PathDelim Value="\"/>
+    <General>
+      <Flags>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasTitleStatement Value="False"/>
+        <MainUnitHasScaledStatement Value="False"/>
+      </Flags>
+      <SessionStorage Value="InProjectDir"/>
+      <Title Value="BiuSituAst"/>
+      <UseAppBundle Value="False"/>
+      <ResourceType Value="res"/>
+    </General>
+    <BuildModes>
+      <Item Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+      <UseFileFilters Value="True"/>
+    </PublishOptions>
+    <RunParams>
+      <FormatVersion Value="2"/>
+    </RunParams>
+    <Units>
+      <Unit>
+        <Filename Value="ast_rest_server.lpr"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ast_parser.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ast_visitor.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="manual_ast_parser.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ast_server.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="ast_rest_server"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir);..\DelphiAst-FixInsight\Source;..\DelphiAst-FixInsight\Source\FreePascalSupport\FPC_StringBuilder\Src;..\DelphiAst-FixInsight\Source\FreePascalSupport\Generics.Collection\src;..\DelphiAst-FixInsight\Source\FreePascalSupport;..\DelphiAst-FixInsight\Source\SimpleParser;..\DelphiAst-FixInsight\Source\FreePascalSupport\FPC_StringBuilder;..\DelphiAst-FixInsight\Source\FreePascalSupport\Generics.Collection;..\DelphiAST-FixInsight\Source\SimpleParser;..\DelphiAST-FixInsight\Source\SimpleParser\backup;SimpleParser"/>
+      <OtherUnitFiles Value="..\DelphiAst-FixInsight\Source;..\DelphiAst-FixInsight\Source\FreePascalSupport\FPC_StringBuilder\Src;..\DelphiAst-FixInsight\Source\FreePascalSupport\Generics.Collection\src;..\DelphiAst-FixInsight\Source\FreePascalSupport;..\DelphiAst-FixInsight\Source\SimpleParser;..\DelphiAst-FixInsight\Source\FreePascalSupport\FPC_StringBuilder;..\DelphiAst-FixInsight\Source\FreePascalSupport\Generics.Collection;..\DelphiAST-FixInsight\Source\SimpleParser;..\DelphiAST-FixInsight\Source\SimpleParser\backup;SimpleParser"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <Parsing>
+      <SyntaxOptions>
+        <SyntaxMode Value="Delphi"/>
+      </SyntaxOptions>
+    </Parsing>
+    <Linking>
+      <Debugging>
+        <DebugInfoType Value="dsDwarf3"/>
+      </Debugging>
+    </Linking>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions>
+      <Item>
+        <Name Value="EAbort"/>
+        <Enabled Value="False"/>
+      </Item>
+      <Item>
+        <Name Value="ECodetoolError"/>
+        <Enabled Value="False"/>
+      </Item>
+      <Item>
+        <Name Value="EFOpenError"/>
+        <Enabled Value="False"/>
+      </Item>
+      <Item>
+        <Name Value="EWriteError"/>
+      </Item>
+      <Item>
+        <Name Value="ESyntaxTreeException"/>
+      </Item>
+      <Item>
+        <Name Value="EParserException"/>
+      </Item>
+      <Item>
+        <Name Value="EArgumentOutOfRangeException"/>
+      </Item>
+    </Exceptions>
+  </Debugging>
+</CONFIG>
